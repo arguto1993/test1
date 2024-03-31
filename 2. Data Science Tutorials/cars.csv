@@ -1,0 +1,8 @@
+﻿country,cars_per_cap,drives_right
+US,0.80,True
+Germany,0.60,False
+Japan,0.50,False
+India,0.05,False
+Brazil,0.25,False
+Australia,0.75,False
+Mexico,0.30,True
