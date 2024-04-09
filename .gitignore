@@ -1,3 +1,8 @@
+# It's generally recommended to ignore the virtual environment when using version control systems like Git. 
+# The reason is that virtual environments contain all the dependencies required for your project, 
+# and including them in version control can bloat your repository unnecessarily and cause potential issues.
+.venv/
+
 # Created by https://www.toptal.com/developers/gitignore/api/linux,python,visualstudiocode,pythonvanilla,sublimetext,windows,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,python,visualstudiocode,pythonvanilla,sublimetext,windows,jupyternotebooks
 
